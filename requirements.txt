@@ -10,3 +10,4 @@ ujson==5.10.0
 requests==2.32.3
 yfinance==0.2.43
 typing_extensions>=4.8.0
+python-3.11
